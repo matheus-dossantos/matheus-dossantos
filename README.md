@@ -74,11 +74,7 @@ Acredito que entender profundamente como sistemas falham é o melhor caminho par
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
 </div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=matheus-dossantos&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
